@@ -1,0 +1,20 @@
+{ 
+	"name": "Deep Storage",
+	"nescription": "Can store large amount of one type item",
+	"type": "Vault",
+	"itemCapacity": "5000",
+	"hasItem": "true",
+	"health": "500",
+	"size": "2",
+	"requirements": [
+		"titanium/500"
+		"lead/200"
+		"copper/300" ],
+	"category": "effect",
+	"research": "vault",
+	"outlineIcon": false,
+}
+	
+		
+		
+	
