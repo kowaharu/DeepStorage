@@ -8,7 +8,7 @@
 	"size": "2",
 	"requirements": [
 		"titanium/500"
-		"lead/200"
+		"thorium/200"
 		"copper/300" ],
 	"category": "effect",
 	"research": "vault",
